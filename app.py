@@ -61,7 +61,7 @@ async def json_to_proto(data: dict, proto: Message) -> bytes:
 # ================= ACCOUNTS =================
 def get_account_credentials(region: str) -> str:
     creds = {
-        "VN": "uid=3686689562&password=AD9C4A2B51A74948...",
+        "VN": "uid=4288152181&password=257CAE26A465B6281FEE565DB7A22DB67304B805BF6111EC7DBBFBFBA92049F7",
         "ID": "uid=3692307512&password=4AA06E1DB3F998AB...",
         "SG": "uid=3692265171&password=A2A5E3C252A35B2B...",
     }
